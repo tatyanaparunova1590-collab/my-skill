@@ -8,6 +8,7 @@
   "dependencies": {
     "@remotion/captions": "4.0.504",
     "@remotion/cli": "4.0.504",
+    "@remotion/media": "4.0.504",
     "@remotion/tailwind-v4": "4.0.504",
     "@remotion/transitions": "4.0.504",
     "react": "19.2.3",
